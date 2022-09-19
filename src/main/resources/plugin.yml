@@ -1,0 +1,12 @@
+name: UN_RejectPlayer
+version: '${project.version}'
+main: unminecraft.un_rejectplayer.UN_RejectPlayer
+api-version: 1.18
+authors: [ unminecraft, crisleoc ]
+description:
+  Minecraft plugin: rejects anyplayer of the server if it die.
+website: https://github.com/UN-Minecraft/
+commands:
+  saludo:
+    description: Say hi to the cmd
+    usage: /<command>
