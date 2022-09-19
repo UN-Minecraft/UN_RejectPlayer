@@ -10,3 +10,5 @@ commands:
   saludo:
     description: Say hi to the cmd
     usage: /<command>
+softdepend:
+  - PlaceholderAPI
