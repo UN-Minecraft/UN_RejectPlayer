@@ -15,6 +15,6 @@ El contenido del archivo `config.yml` es:
 ```yml
 activate: true
 ```
-Teniendo en cuenta lo anterior, para poder activar/desactivar el plugin debemos modificar el archivo en cuestión y ejecutar `reloadunrp`para recargar el plugin.
+Teniendo en cuenta lo anterior, para poder activar/desactivar el plugin debemos modificar el archivo en cuestión y ejecutar `reloadunrp` para recargar el plugin.
 
 *Para administrar las muertes de un jugador se deben usar comandos de [CMI](https://www.zrips.net/cmi/commands/user-meta/)*
