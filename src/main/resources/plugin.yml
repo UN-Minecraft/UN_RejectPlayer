@@ -7,8 +7,8 @@ description:
   Minecraft plugin: rejects anyplayer of the server if it die.
 website: https://github.com/UN-Minecraft/
 commands:
-  saludo:
-    description: Say hi to the cmd
+  reloadunrp:
+    description: reload the plugin.
     usage: /<command>
 softdepend:
   - PlaceholderAPI
